@@ -11,3 +11,5 @@
 another API you can use is:<h2> RAPID API </h2>
 this API tool has a bundle of APIs for various platforms/fields we can use APIs and convert
 them to database by using RAPID API
+
+<img width="1155" height="830" alt="image" src="https://github.com/user-attachments/assets/881539dc-596d-419b-bd6d-defafaaa05aa" />
