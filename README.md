@@ -51,4 +51,4 @@ than one big burst followed by a burnout week. This repo is the receipt.
 ## 🙌 Thanks for stopping by
 
 If you're on a similar path, feel free to fork, star, or drop a suggestion —
-always open to better ways of learning in public.
+always open to better ways of learning in public!
