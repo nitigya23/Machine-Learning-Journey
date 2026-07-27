@@ -38,6 +38,8 @@ No zero days.
 - NumPy / Pandas
 - scikit-learn
 - Matplotlib / Seaborn
+- PyTorch
+
 
 ---
 
