@@ -12,7 +12,7 @@ Documenting my path into Machine Learning — one concept, one notebook at a tim
 
 This is my public logbook for learning Machine Learning from the ground up.
 Every notebook here is something I built, broke, and rebuilt until it made sense —
-not a copy-paste tutorial follow-along.
+not a copy-paste tutorial follow-along from youtube videos.
 
 **The commitment:** at least **2 concepts (Colab notebooks) pushed daily.**
 No zero days.
