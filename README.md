@@ -15,7 +15,7 @@ Every notebook here is something I built, broke, and rebuilt until it made sense
 not a copy-paste tutorial follow-along from youtube videos.
 
 **The commitment:** at least **2 concepts (Colab notebooks) pushed daily.**
-No zero days.
+No zero days is my agenda behind this repo.
 
 ---
 
